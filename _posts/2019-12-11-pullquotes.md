@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Pullquotes
-categories: [Miscellaneous, Jekyll]
+categories: [HTML,Code]
 excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
 ---
 
-
+[What Makes a Dialog Agent Useful?](https://huggingface.co/blog/dialog-agents)
 In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. {% include pullquote.html quote="It is typically placed in a larger or distinctive typeface and on the same page." %} Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations. [Massive Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
 [Neural Image Compression with a Diffusion-Based Decoder](https://arxiv.org/abs/2301.05489)
 
