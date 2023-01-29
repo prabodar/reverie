@@ -2,7 +2,7 @@
 layout: post
 title: Free courses to become a Research Scientist
 categories: 
-excerpt: Become a Research Scientist by spending $0. Here are 19 FREE courses that can your research skills today: 
+excerpt: Become a Research Scientist by spending $0. Here are 19 FREE courses that can your research skills today
 ---
 
 
