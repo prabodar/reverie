@@ -2,7 +2,7 @@
 layout: post
 title:  Pullquotes
 categories: 
-excerpt: The history of Neural Networks is quite fascinating! #ArtificialIntelligence #DeepLearning #MachineLearning
+excerpt: The history of Neural Networks is quite fascinating! Checkout some of the impressive worls !
 ---
 
 
@@ -13,12 +13,12 @@ The Seminal models:
 
 The optimization methods
 - [1671 by Newton and then Ralphson in 1690 for the Newton-Ralphson method:](https://archive.org/details/bub_gb_4nlbAAAAQAAJ/mode/2up)
-- [1805 Least Square Method by Legendre or Gauss:](https://www.york.ac.uk/depts/maths/histstat/legendre.pdf), (https://projecteuclid.org/journals/annals-of-statistics/volume-9/issue-3/Gauss-and-the-Invention-of-Least-Squares/10.1214/aos/1176345451.full)
+- [1805 Least Square Method by Legendre or Gauss:](https://www.york.ac.uk/depts/maths/histstat/legendre.pdf, https://projecteuclid.org/journals/annals-of-statistics/volume-9/issue-3/Gauss-and-the-Invention-of-Least-Squares/10.1214/aos/1176345451.full)
 - [1847 Cauchy develops the Gradient descent algorithm:](https://cs.uwaterloo.ca/~y328yu/classics/cauchy-en.pdf)
-- [1960 Kelley discovers the Backpropagation algorithm - Kelley:](https://www.gwern.net/docs/statistics/decision/1960-kelley.pdf)[ but is popularized by Hinton in 1986)(https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf) 
+- [1960 Kelley discovers the Backpropagation algorithm - Kelley:](https://www.gwern.net/docs/statistics/decision/1960-kelley.pdf)[ but is popularized by Hinton in 1986](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf) 
 
 The silver age: 
-- [1989-1998 first Convolutional NN trained with Gradient descent by LeCun (LeNet-5):](https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf), (http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
+- [1989-1998 first Convolutional NN trained with Gradient descent by LeCun (LeNet-5):](https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf , http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 - [1997 The LSTM Network by Hochreiter:](http://www.bioinf.jku.at/publications/older/2604.pdf)
 - [2006 Hinton creates "deep" learning with a deep architecture of Restricted Boltzmann machines:](http://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 
