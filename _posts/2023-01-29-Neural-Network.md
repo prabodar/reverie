@@ -2,7 +2,7 @@
 layout: post
 title:  Evolution of Neural Networks
 categories: 
-excerpt: The history of Neural Networks is quite fascinating! Checkout some of the impressive worls !
+excerpt: The history of Neural Networks is quite fascinating! Checkout some of the impressive works !
 ---
 
 
